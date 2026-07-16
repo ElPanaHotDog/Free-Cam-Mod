@@ -2,11 +2,14 @@
 
 This utility allows you to use the free cam within Fall Guys in a vanilla way to take screenshots, etc
 
-# How to Use
+#### **Images**
+
+
+### How to Use
 
 By default, press F6 while in-game to toggle Free Cam. You can change this keybind in the BepInEx config, or by editing FallGuys\BepInEx\config\com.ElPanaHotDog.freecam.cfg
 
-# How to install it?
+### How to install it?
 
 1. Install BepInEx IL2CPP by downloading it from:
    https://builds.bepinex.dev/projects/bepinex_be/785/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.785%2B6abdba4.zip
@@ -20,3 +23,11 @@ By default, press F6 while in-game to toggle Free Cam. You can change this keybi
 
 3. Extract the Free Cam mod ZIP and copy the included folder into FallGuys\BepInEx\plugins.
    Launch Fall Guys and wait for BepInEx to finish its initial setup.
+
+   # CREDITS
+   
+   Creator: **ElPanaHotDog**
+   
+   BetaTesters: **CarritoDeCoto**, **Luger31**
+
+   
