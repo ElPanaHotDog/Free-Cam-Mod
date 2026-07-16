@@ -31,6 +31,10 @@ By default, press F6 while in-game to toggle Free Cam. You can change this keybi
 - Extract the Free Cam mod ZIP and copy the included folder into FallGuys\BepInEx\plugins.
    Launch Fall Guys and wait for BepInEx to finish its initial setup.
 
+   # IMPORTANT
+
+   ### **Have BettrFG**
+
    # CREDITS
    
    Creator: **ElPanaHotDog**
