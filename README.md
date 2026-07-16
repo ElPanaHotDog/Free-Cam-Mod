@@ -4,6 +4,9 @@ This utility allows you to use the free cam within Fall Guys in a vanilla way to
 
 #### **Images**
 
+![Screenshot](Images/Image1.png)
+
+![Screenshot](Images/Image2.png)
 
 ### How to Use
 
